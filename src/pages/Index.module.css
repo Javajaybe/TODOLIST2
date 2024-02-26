@@ -1,0 +1,36 @@
+
+.fullHeightContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f5f5f5; /* Light gray background color */
+}
+
+.centeredContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f5f5f5; /* Light gray background color */
+  }
+  
+  .centeredText {
+    text-align: center;
+    color: #333; /* Dark gray text color */
+  }
+  
+  .styledButton {
+    background-color: #4caf50; /* Green button background color */
+    color: #ffffff; /* White button text color */
+    padding: 10px 20px;
+    margin-top: 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
+  
